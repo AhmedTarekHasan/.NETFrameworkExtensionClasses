@@ -1,0 +1,5 @@
+C:\Users\atarek\Desktop\FrameWorkExtensionClass\FrameWorkExtensionClass\obj\Debug\ExtensionMethodsProject.csprojResolveAssemblyReference.cache
+C:\Users\atarek\Desktop\FrameWorkExtensionClass\FrameWorkExtensionClass\bin\Debug\ExtensionMethodsLibrary.dll
+C:\Users\atarek\Desktop\FrameWorkExtensionClass\FrameWorkExtensionClass\bin\Debug\ExtensionMethodsLibrary.pdb
+C:\Users\atarek\Desktop\FrameWorkExtensionClass\FrameWorkExtensionClass\obj\Debug\ExtensionMethodsLibrary.dll
+C:\Users\atarek\Desktop\FrameWorkExtensionClass\FrameWorkExtensionClass\obj\Debug\ExtensionMethodsLibrary.pdb
